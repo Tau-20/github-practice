@@ -1,1 +1,2 @@
-name  = 'mong'
+name = 'mong'
+bark = 'warl warl'
